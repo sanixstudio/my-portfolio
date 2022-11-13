@@ -16,7 +16,7 @@ const getTechskills = async () => {
 };
 
 const getLanguageskills = async () => {
-  let res = await http.get(`/languageskills.json`);
+  let res = await http.get(`/languageskills.json`, { method: 'get', });
   return res.data;
 };
 
