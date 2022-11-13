@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "name": "David Chester",
-        "meta": "Client - Envato.com",
+        "name": "Heather Jansen",
+        "meta": "Client - Contract",
         "givenreview": 5.0,
-        "image": "/images/user-avatar-1.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "image": "/images/heather.png",
+        "text": "Adnan made all of my development dreams come true! He worked with me to code my personal website. He was always willing to go the extra mile to make my designs come to life as I intended. He was also eager to present his own ideas on how the design or code could be made better or more elegant. I recommend him whole-heartedly and look forward to working with him again."
     },
     {
         "id": 2,
-        "name": "Emma Watson",
-        "meta": "Client - Envato.com",
-        "givenreview": 4.2,
-        "image": "/images/user-avatar-4.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Justin Lawrence",
+        "meta": "Senior Engineer at Wavely",
+        "givenreview": 4.8,
+        "image": "/images/justin.png",
+        "text": "I've had the privilege to work with Adnan for almost a year. He has blown me away with his ability to break down problems, address complex issues, and ask the hard questions. He has transformed how we think about design and style on the front-end team. He is a UI master (both in design and animations) on his own right; but also is able to educate and mentor other developers to grow their own skills. This is coupled with his ability to improve his own skills; both technical and non-technical. He has shown the ability to pick up dozens of topics in days, both being able to understand the concepts, but also able to convert them into actionable and measurable impact."
     },
     {
         "id": 3,
-        "name": "Jonathon Doe",
-        "meta": "Client - Envato.com",
-        "givenreview": 4.2,
-        "image": "/images/user-avatar-3.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Gilbert Antonio",
+        "meta": "Frontend Engineer at Wavely",
+        "givenreview": 5,
+        "image": "/images/gilbert.png",
+        "text": "I worked with Adnan at Wavely and could see firsthand his growth and improvement in the technical field and as a professional. His knowledge of the UI and UX allowed us to improve the experience for the users as well as keep a clean and nice look and feel. Besides this he was never afraid to take big  that had a large impact on the platform, his biggest challenge was improving the SEO of the platform, this was an area that he didn't know that well and he learned everything that we needed to achieve that goal with excellent results improving the growth of the platform. He is never afraid of taking advice or asking for support and is really collaborative I cannot wait to see the next things that he is going to do"
     },
     {
         "id": 4,
-        "name": "William Bieber",
-        "meta": "Client - Envato.com",
-        "givenreview": 4.7,
-        "image": "/images/user-avatar-2.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Elaine Lumanauw",
+        "meta": "Senior Product Designer - Wavely",
+        "givenreview": 5,
+        "image": "/images/elaine.png",
+        "text": "I worked with Adnan at Wavely. I can already tell you: he’s one of the smartest software engineers I’ve worked with. During my time, we worked on a couple of Design System components. Adnan’s attention to detail, understanding of key deliverables, and excellent communicator make him someone you can trust to be an amazing team player. Furthermore, Adnan’s personality was another key factor in why I thoroughly enjoyed working with him. Would work with Adnan again, given the chance!"
     },
     {
         "id": 5,
-        "name": "Bob Harry",
-        "meta": "Client - Envato.com",
+        "name": "Lawrence Ng",
+        "meta": "Teacher Assistant - Trilogy",
         "givenreview": 5,
-        "image": "/images/user-avatar-2.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "image": "/images/lawrence.png",
+        "text": "Adnan was one of the most impressive student in our cohort. He has a real eye for frontend UI design, and his projects are some of the most attractive that I have seen. It is clear he has a real passion for programming and engineering from his interaction with the instructor, TAs, and fellow classmate. He is a true team player, and I have seen the numerous times he has helped other students grasp new concepts or helped them through solving issues. He is a true asset to any team or project!"
     }
 ]

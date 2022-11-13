@@ -8,8 +8,6 @@ import { useQuery } from "react-query";
 const AboutSection = () => {
   const { data } = useQuery("information", getInformation);
 
-  console.log(process.env.NEXT_PUBLIC_API_URL);
-
   if (!data) return null;
 
   return (
