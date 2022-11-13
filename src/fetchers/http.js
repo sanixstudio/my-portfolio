@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const http = axios.create({
-    baseURL: process.env.NEXT_PUBLIC_API_URL || process.env.PORT,
+    baseURL: process.env.PORT || process.env.NEXT_PUBLIC_API_URL,
     headers: {
         Accept: "application/json",
         "Access-Control-Allow-Origin": "*",
