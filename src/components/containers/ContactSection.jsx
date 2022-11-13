@@ -34,7 +34,7 @@ const ContactSection = () => {
                 <RiPhoneLine />
               </span>
               <div className="content">
-                <h5 className="mb-2">Contact on phone</h5>
+                <h5 className="mb-2">Phone</h5>
                 {data.phoneNumbers.map((number, index) => (
                   <p className="mb-0" key={index}>
                     <Link href={`tel:${number.split("-").join("")}`}>
@@ -49,7 +49,7 @@ const ContactSection = () => {
                 <RiMailLine />
               </span>
               <div className="content">
-                <h5 className="mb-2">Contact on mail</h5>
+                <h5 className="mb-2">Email</h5>
                 {data.emailAddress.map((email, index) => (
                   <p className="mb-0" key={index}>
                     <Link href={`mailto:${email}`}>
@@ -64,9 +64,9 @@ const ContactSection = () => {
                 <RiMapPinLine />
               </span>
               <div className="content">
-                <h5 className="mb-2">Contact address</h5>
+                <h5 className="mb-2">Location</h5>
                 <p className="mb-0">
-                  121 King Street, Melbourne, United States
+                  San Francisco, Bay Area
                 </p>
               </div>
             </div>

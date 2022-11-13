@@ -2,22 +2,29 @@
     {
         "id": 1,
         "title": "Higher School Graduation",
-        "meta": "Abc College.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2008 - 2010"
+        "meta": "ANSI Degree College",
+        "text": "Obtained a college degree with Computer Science as major subject",
+        "year": "2002 - 2004"
     },
     {
         "id": 2,
-        "title": "Bachelor of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2010 - 2014"
+        "title": "Bachelor of Business Admin",
+        "meta": "College of Global Tech.",
+        "text": "Received bachelors degree in Business & Admin",
+        "year": "2004 - 2008"
     },
     {
         "id": 3,
-        "title": "Masters of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2014 - 2016"
+        "title": "Full-stack Developer",
+        "meta": "UC Berkeley Extension",
+        "text": "Received a certificate in Full-stack web development",
+        "year": "2020"
+    },
+    {
+        "id": 4,
+        "title": "React BootCamp",
+        "meta": "Scrimba Online Community",
+        "text": "Received a certificate in React.js",
+        "year": "2020"
     }
 ]

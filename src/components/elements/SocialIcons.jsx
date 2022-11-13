@@ -4,6 +4,7 @@ import {
     RiGithubFill,
     RiLinkedinBoxFill,
     RiTwitterFill,
+    RiCodeSandboxFill
 } from "react-icons/ri";
 
 const SocialIcons = ({ data, rounded }) => {
@@ -102,6 +103,25 @@ const SocialIcons = ({ data, rounded }) => {
                         </span>
                         <span className="back absolute left-0 top-0 flex h-full w-full translate-y-full items-center justify-center rounded bg-primary text-grey transition-all duration-500 group-hover:translate-y-0">
                             <RiDribbbleFill className="inline-block" />
+                        </span>
+                    </a>
+                </li>
+            )}
+            {data.RiCodeSandboxFill && (
+                <li className="inline-block align-middle">
+                    <a
+                        href={data.RiCodeSandboxFill}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`group relative inline-block h-10 w-10 overflow-hidden border border-white border-opacity-10 text-center align-middle text-lg leading-none text-body ${
+                            rounded ? "rounded-full" : "rounded"
+                        }`}
+                    >
+                        <span className="front relative left-0 top-0 flex h-full w-full translate-y-0 transform items-center justify-center rounded bg-grey transition-all duration-500 group-hover:-translate-y-full">
+                            <RiCodeSandboxFill className="inline-block" />
+                        </span>
+                        <span className="back absolute left-0 top-0 flex h-full w-full translate-y-full items-center justify-center rounded bg-primary text-grey transition-all duration-500 group-hover:translate-y-0">
+                            <RiCodeSandboxFill className="inline-block" />
                         </span>
                     </a>
                 </li>
